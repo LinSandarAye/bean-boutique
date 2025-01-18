@@ -220,6 +220,13 @@ nav ul li a:hover {
         padding: 2px 6px;
     }
 
+    .search-btn {
+        margin-right: 10px;
+    }
+    .fa-shopping-cart {
+        margin-left: 10px;
+    }
+
     #search-input {
         width: 60px;
     }
